@@ -1,6 +1,6 @@
 Built by the amazing people at Pythonista!
 
-Modded by Will Schmidt and Emmanuel DeOliveira
+Modded by Will Schmidt and Manny
 
 
 

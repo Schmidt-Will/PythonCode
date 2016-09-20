@@ -1,0 +1,10 @@
+Addition Calculator
+by Will Schmidt
+
+num1 = int(input("What is your first addend?"))
+num2 = int(input("What is your second addend?"))
+num3 = int(input("What is your third addend?"))
+
+
+
+print ("The sum of your number is", num1+num2+num3)

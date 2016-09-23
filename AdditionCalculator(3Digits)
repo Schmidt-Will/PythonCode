@@ -1,5 +1,5 @@
-Addition Calculator
-by Will Schmidt
+"Addition Calculator"
+"by Will Schmidt"
 
 num1 = int(input("What is your first addend?"))
 num2 = int(input("What is your second addend?"))

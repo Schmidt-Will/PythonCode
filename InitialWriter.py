@@ -1,5 +1,5 @@
-Initial Writer
-by Will Schmidt
+"Initial Writer"
+"by Will Schmidt"
 
 firstName = input("What is your first name?")
 middleName = input("What is your middle name?")

@@ -1,5 +1,5 @@
-Small Madlib about a Pizza Chef. (If you want more Madlibs, just comment below this one, I made this fast for practice but, I can make more.)
-by Will Schmidt
+"Small Madlib about a Pizza Chef. (If you want more Madlibs, just comment below this one, I made this fast for practice but, I can" "make more.)"
+"by Will Schmidt"
 
 a = input("Adjective? ")
 b = input("Nationality? ")

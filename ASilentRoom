@@ -1,0 +1,35 @@
+"A Silent Room"
+"by Will Schmidt"
+
+print ("The room is silent.")
+a1 = int(input("1. Make noise. 2. Light a fire."))
+
+if a1 == 1:
+	print("You make a loud noise by banging two pans together. The pans break on impact.")
+	print ("The sounds echo around the room for a short time. When the sound stops, the silence is back. You can see vague shadows on the walls of you, and people from other Ages.")
+	b1 = int(input("1. Stand up and look around. 2. Go back to sleep."))
+	
+	if b1 == 1:		
+		print("You get up and lay a hand on the tattered wallpaper. You feel the old paper crush beneath your fingertips.")
+	
+	else:
+		print("The dark and silent surroundings of the room make it easy to sleep. You dream of statues and crushed wallpaper.")
+
+
+else:	
+	print("Shadows dance on the walls. One looks like you, others look like people from other Ages.")
+	print("The people look old a wheathered by time. As if they were statues left alone in rain for half a milennia.")
+	c1 = int(input("1. Get up and look at the shadows. 2. Put out the fire."))
+	
+	if c1 == 1:
+		print("You can tell the shadows actually are statues the shadows look so clear that you could think they are part of the wallpaper.")
+			
+	else:
+		print("The room is dark again, a small amount of moonlight peeks through a windows you have not noticed before.")
+		d1 = int(input("1) Break through the window and get out. 2) Walk around the room and investigate more."))
+		
+		if d1 == 1:
+			print("You break through the window using the pots and pans that were broken. You climb out into the cold night. The moon could be mistaken for the sun it is so bright. You see figures darting around the edge of your vision.")
+		
+		else:
+			print("You walk around and find a hidden trap door under a rug in the corner of the room.")
